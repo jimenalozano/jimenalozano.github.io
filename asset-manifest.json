@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.5ecd60fb.chunk.css",
-    "main.js": "/static/js/main.82380f88.chunk.js",
-    "main.js.map": "/static/js/main.82380f88.chunk.js.map",
-    "runtime-main.js": "/static/js/runtime-main.19ccc7f6.js",
-    "runtime-main.js.map": "/static/js/runtime-main.19ccc7f6.js.map",
-    "static/js/2.6457aad2.chunk.js": "/static/js/2.6457aad2.chunk.js",
-    "static/js/2.6457aad2.chunk.js.map": "/static/js/2.6457aad2.chunk.js.map",
-    "index.html": "/index.html",
-    "precache-manifest.cdc1c8e47829799b6805c0154d64127b.js": "/precache-manifest.cdc1c8e47829799b6805c0154d64127b.js",
-    "service-worker.js": "/service-worker.js",
-    "static/css/main.5ecd60fb.chunk.css.map": "/static/css/main.5ecd60fb.chunk.css.map",
-    "static/js/2.6457aad2.chunk.js.LICENSE.txt": "/static/js/2.6457aad2.chunk.js.LICENSE.txt",
-    "static/media/profile.jpg": "/static/media/profile.5c36924c.jpg"
+    "main.css": "/jimenalozano.github.io/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/jimenalozano.github.io/static/js/main.c5112dba.chunk.js",
+    "main.js.map": "/jimenalozano.github.io/static/js/main.c5112dba.chunk.js.map",
+    "runtime-main.js": "/jimenalozano.github.io/static/js/runtime-main.f8676a13.js",
+    "runtime-main.js.map": "/jimenalozano.github.io/static/js/runtime-main.f8676a13.js.map",
+    "static/js/2.6457aad2.chunk.js": "/jimenalozano.github.io/static/js/2.6457aad2.chunk.js",
+    "static/js/2.6457aad2.chunk.js.map": "/jimenalozano.github.io/static/js/2.6457aad2.chunk.js.map",
+    "index.html": "/jimenalozano.github.io/index.html",
+    "precache-manifest.bf23b980d016899e00c8f4d8228a0f54.js": "/jimenalozano.github.io/precache-manifest.bf23b980d016899e00c8f4d8228a0f54.js",
+    "service-worker.js": "/jimenalozano.github.io/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/jimenalozano.github.io/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.6457aad2.chunk.js.LICENSE.txt": "/jimenalozano.github.io/static/js/2.6457aad2.chunk.js.LICENSE.txt",
+    "static/media/profile.jpg": "/jimenalozano.github.io/static/media/profile.5c36924c.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.19ccc7f6.js",
+    "static/js/runtime-main.f8676a13.js",
     "static/js/2.6457aad2.chunk.js",
     "static/css/main.5ecd60fb.chunk.css",
-    "static/js/main.82380f88.chunk.js"
+    "static/js/main.c5112dba.chunk.js"
   ]
 }
