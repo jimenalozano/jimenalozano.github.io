@@ -1,13 +1,14 @@
 {
 	"landing": {
-		"firstName": "First Name",
-		"lastName": "Last Name",
-		"phoneNumber": "Phone Number",
-		"bio": "User's descriptive bio",
-    		"email": "User's email",
-    		"linkedin": "User's LinkedIn",
-		"github": "User's GitHub"
+		"firstName": "Jimena",
+		"lastName": "Lozano",
+		"phoneNumber": "+5491144156962",
+		"bio": "Student of software engineer.",
+		"email": "jimenalozano444@gmail.com",
+		"linkedin": "https://www.linkedin.com/in/jimena-lozano-251ab8194/",
+		"github": "https://github.com/jimenalozano"
 	},
+
 	"experience": [
 		{
 				"position": "Web Developer",
