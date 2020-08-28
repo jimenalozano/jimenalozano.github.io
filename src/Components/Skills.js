@@ -14,7 +14,7 @@ class Skills extends Component {
     return(
       <section className="resume-section p-3 p-lg-5 d-flex align-items-center" id="skills">
         <div className="w-100">
-          <h2 className="mb-5">Skills</h2>
+          <h2 className="mb-5">Languages</h2>
           <div className="subheading mb-3">Programming Languages &amp; Tools</div>
           <div className="row">
           {

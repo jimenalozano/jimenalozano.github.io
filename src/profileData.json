@@ -3,52 +3,324 @@
 		"firstName": "Jimena",
 		"lastName": "Lozano",
 		"phoneNumber": "+5491144156962",
-		"bio": "Student of software engineer.",
+		"bio": "Software engineering student.",
+		"age": "22",
 		"email": "jimenalozano444@gmail.com",
 		"linkedin": "https://www.linkedin.com/in/jimena-lozano-251ab8194/",
 		"github": "https://github.com/jimenalozano"
 	},
-
 	"experience": [
 		{
-				"position": "Web Developer",
-				"organization": "Company one",
-				"aboutWork": "Details about work here",
-				"fromDate": "Date of starting",
-				"toDate": "Ending Date"
+				"position": "Ski Instructor",
+				"organization": "Vail Resorts",
+				"aboutWork": "Trained skiers in optimal behaviors and techniques. Helped students adjust to snow and unfamiliar surroundings, resulting in better results in individual and group lessons.",
+				"fromDate": "12/2019",
+				"toDate": "03/2020"
 		},
 		{
-			"position": "App Developer",
-			"organization": "Company 2",
-			"aboutWork": "Details about work here",
-			"fromDate": "Date of starting",
-			"toDate": "ending date"
+				"position": "Secretary",
+				"organization": "Pilar Rodríguez Acquarone’s Clerkship",
+				"aboutWork": "Provided clerical support to employees by copying, faxing and filing documents. Responded emails, calls, and other correspondence to facilitate communication and enhance business processes.",
+				"fromDate": "11/2014",
+				"toDate": "12/2014"
 		}
 	],
-	"education": [{
-			"university": "University or School Name",
-			"degree": "Major",
-			"gpa": "GPA",
-			"fromDate": "Date of start",
-			"toDate": "Date of completion"
-		}
-	],
-	"skills": [{
-			"name": "skill1"
+	"education": [
+		{
+			"university": "Instituto Tecnológico de Buenos Aires",
+			"degree": "Software engineering",
+			"gpa": "",
+			"fromDate": "2016",
+			"toDate": "2021"
 		},
 		{
-			"name": "skill2"
+			"university": "Colegio San Francisco Xavier",
+			"degree": "High School Diploma",
+			"gpa": "",
+			"fromDate": "2004",
+			"toDate": "2015"
+		}
+	],
+	"skills": [
+		{
+			"name": "English (advanced)"
+		},
+		{
+			"name": "Spanish (native)"
+		},
+		{
+			"name": "Java"
+		},
+		{
+			"name": "C/C++"
+		},
+		{
+			"name": "React"
+		},
+		{
+			"name": "Python"
+		},
+		{
+			"name": "SQL"
+		},
+		{
+			"name": "HTML"
+		},
+		{
+			"name": "CSS"
+		},
+		{
+			"name": "JavaScript"
 		}
 	],
 	"interests": {
-		"paragraphOne": "Descriptive detail about your interests for paragraph one",
-		"paragraphTwo": "Descriptive detail about your interests for paragraph two"
+		"paragraphOne": "",
+		"paragraphTwo": ""
 	},
-	"awards": [{
-			"awardDetail": "Your first award"
+	"awards": [
+		{
+			"awardDetail": "Alpine Level 1 Certificate by PSIA - 2020"
 		},
 		{
-			"awardDetail": "Your second award"
+			"awardDetail": "International Baccalaureate Diploma - 2015"
+		},
+		{
+			"awardDetail": "International General Certificate of Secondary Education - 2013"
+		}
+	],
+	"projects": [
+		{
+			"name": "IT Project Management",
+			"language": "",
+			"aboutWork": [
+				{
+					"description":"Project where different tools were implemented for the management of software projects. This includes choosing the life cycle, estimation of size and effort of the project, temporal planning of the tasks to be carried out with the distribution of the effort, calculation of the cost, configuration management and quality management of the software product.",
+					"github":""
+				}
+			],
+			"date": "2020 1HY"
+		},
+		{
+			"name": "Aritifical Intelligence Systems",
+			"language": "Java, Python",
+			"aboutWork":[
+				{
+					"description": "Generator of solutions for the Sokoban game, implementing the search algorithms Depth-First Search, Breadth-First Search, Iterative Deepening Depth-First Search, Global Greedy Search, A * and Iterative Deepening A *. Also 3 heuristics and a cost function were implemented.",
+					"github":""
+				},
+				{
+					"description":"Genetic algorithm engine to obtain the best configurations of a character, given its class of an RPG.",
+					"github":""
+				},
+				{
+					"description":"Implementation of a simple linear perceptron, a simple non-linear perceptron and a multilayer perceptron.",
+					"github":""
+				},
+				{
+					"description":"Implementation of a Kohonen network, a neural network using Oja's rule and Hopfield's model.",
+					"github":""
+				},
+				{
+					"description":"Implementation of a basic autoencoder and a denoising autoencoder.",
+					"github":""
+				}
+			],
+			"date": "2020 1HY"
+		},
+		{
+			"name": "Crypthography and Security",
+			"language": "C",
+			"aboutWork": [
+				{
+					"description":"Use of steganography and methods of hiding information in bmp files, analyzing advantages and disadvantages of each one. The program hides any file in a .bmp file, using a chosen steganography method, with or without password. It also discovers a hidden file in a .bmp file that has previously been steganographed with one of the provided methods. Stegoanalyzes a .bmp file to determine if you have an embedded file, what algorithm was used and removes it properly.",
+					"github":"https://github.com/agusosimani/steganography-cripto"
+				}
+			],
+			"date": "2020 1HY"
+		},
+		{
+			"name": "Systems Simulation",
+			"language": "Java, Python",
+			"aboutWork":
+			[
+				{
+					"description":"Efficient search for neighboring particles using the Cell Index Method.",
+					"github":""
+				},
+				{
+					"description":"Simulation of off-latice cellular automata. Off-latice automata are flocks of self-propelled agents. The animations were made to show the dynamic of the system and the variables that provided relevant conclusions were measured.",
+					"github":""
+				},
+				{
+					"description":"Simulation of event-driven molecular dynamics. Brownian motion was simulated under rigid wall boundary conditions. The animations were made to show the dynamics of the system and the variables that provided relevant conclusions were measured.",
+					"github":""
+				},
+				{
+					"description":"Simulation of molecular dynamics directed by time step. A system was simulated in which a mission to Mars was carried out. The animations were made to show the dynamics of the system and the variables that provided relevant conclusions were measured.",
+					"github":""
+				},
+				{
+					"description":"Simulation of pedestrian dynamics directed by time step. The LDG (Local Dynamic Goal) operating model was simulated and animations were made to show pedestrian dynamics.",
+					"github":""
+				},
+				{
+					"description":"Simulation of pedestrian dynamics directed by time step. Given the pandemic caused by COVID-19, the system studied was the pedestrian dynamics inside a supermarket, in order to draw conclusions about the maximum capacity of the supermarket.",
+					"github":""
+				}
+			],
+			"date": "2020 1HY"
+		},
+		{
+			"name":"Distributed Objects Programming",
+			"language":"Java, HazelCast",
+			"aboutWork":
+			[
+				{
+					"description":"Implement a remote thread-safe system to carry out an election, counting the votes, defining the winners and allowing the inspection of the votes.",
+					"github":"https://github.com/maiteherran/pod-ELECCIONES"
+				},
+				{
+					"description":"Design and implement a console application that uses the MapReduce programming model together with the HazelCast framework for the processing of flight data from and/or to national airports, based on real data. The data that will feed the dataset are official data prepared by EANA (Argentine Air Navigation Company) and ANAC (National Civil Aviation Administration).",
+					"github":"https://github.com/PopClom/g11tpe-pod"
+				}
+			],
+			"date": "2019 2HY"
+		},
+		{
+			"name":"Automata, Language Theory and Compilers",
+			"language":"C",
+			"aboutWork":
+			[
+				{
+					"description":"Complete development of a programming language and its compiler, building the two main components of a compiler: the lexical analyzer and the parser. The program uses Lex as Scanner (lexical analyzer) and Yacc as Parser (parser).",
+					"github":"https://github.com/fgomez98/FerLang"
+				}
+			],
+			"date": "2019 1HY"
+		},
+		{
+			"name":"Communication Protocols",
+			"language":"C",
+			"aboutWork":
+			[
+				{
+					"description":"Implementation of a proxy server for the HTTP protocol version 1.1 (Hypertext Transfer Protocol) [RFC7230] that can be used by User Agents such as curl, Mozilla Firefox, Internet Exporer and Google Chrome to surf the Internet. It includes programming client/server applications with sockets, an understanding of industry standards, and the ability to design application protocols.",
+					"github":"https://github.com/fgomez98/FerLang"
+				}
+			],
+			"date": "2019 1HY"
+		},
+		{
+			"name":"Web Applications Projects",
+			"language":"Java, Spring, Hibernate, JPA, React, HTML, CSS",
+			"aboutWork":
+			[
+				{
+					"description":"Web application with Java 8 using Scrum methodology and being productive on a web server. The front end was implemented with Spring Web MVC and JSP files. The database used was PostgreSQL. The project structure was managed and built using Maven.",
+					"github":""
+				},
+				{
+					"description":"On the application created in the first release, the persistence of domain objects was added using Hibernate as JPA provider.",
+					"github":""
+				},
+				{
+					"description":"On the application created in the second release, the frontend was modified to be exclusively programmed with React against a REST API created with Jersey.",
+					"github":""
+				}
+			],
+			"date": "2019 1HY"
+		},
+		{
+			"name":"Software Engineering I",
+			"language":"Java",
+			"aboutWork":
+			[
+				{
+					"description":"Project in which the corresponding documentation was made to manage a project and plan its development, which ended with the delivery of the project and the planned product. The application developed was MercadoGravy, designed as an e-commerce platform application. It uses a database hosted by Firebase, which was developed around the REST API through the specific use of the Firebase Real Time Database. Therefore, it can be run on any operating system that has Java Virtual Machine installed.",
+					"github":"https://github.com/maiteherran/ingenieria-de-software"
+				}
+			],
+			"date": "2018 2HY"
+		},
+		{
+			"name":"Operating Systems",
+			"language":"C",
+			"aboutWork":
+			[
+				{
+					"description":"Programming of the different types of IPCs (Inter Process Communication) present in a POSIX system. Implementation of a system that distributes heavy calculation tasks among several pairs. Development of a system in C that calculates MD5 hashes of multiple files in a distributed way.",
+					"github":"https://github.com/jimenalozano/IPC"
+				},
+				{
+					"description":"Creation of a simple kernel based on the project of the Computer Architecture subject. Implementation of IPC, Memory Management, and Scheduling mechanisms.",
+					"github":"https://github.com/emiliobasualdo/anteojOS"
+				},
+				{
+					"description":"On the kernel of the previous practical work, structures were implemented to add better resource management to our system: implementation of pipes, improvements to Physical Memory Management, improvements to Scheduler, and resolution of the problem of commensal philosophers.",
+					"github":"https://github.com/emiliobasualdo/anteojOS"
+				}
+			],
+			"date": "2018 2HY"
+		},
+		{
+			"name":"Human - Computer Interaction",
+			"language":"HTML, CSS, JavaScript",
+			"aboutWork":
+			[
+				{
+					"description":"Design and partial implementation of a website and a mobile application (Android) that allow remote control of smart devices that are present in a home.",
+					"github":"https://github.com/emiliobasualdo/LaCasaDeMaiteYJime"
+				}
+			],
+			"date": "2018 2HY"
+		},
+		{
+			"name":"Databases I",
+			"language":"SQL",
+			"aboutWork":
+			[
+				{
+					"description":"Application of the concepts of Advanced SQL (PSM, Triggers), to implement functions and restrictions not available in the standard way (which cannot be resolved with Primary Keys, Foreign Keys, etc.). The purpose is to migrate the data from the .tsv files to a database, produce a report, and perform some validations.",
+					"github":"https://github.com/jimenalozano/AdvancedSQL"
+				}
+			],
+			"date": "2018 2HY"
+		},
+		{
+			"name":"Computer Architecture",
+			"language":"C",
+			"aboutWork":
+			[
+				{
+					"description":"Implementation of a kernel that manages a computer's hardware resources and displays Intel's protected mode features. It must manage hardware resources and provide an API so that user applications can use these resources.",
+					"github":"https://github.com/emiliobasualdo/anteojOS"
+				}
+			],
+			"date": "2018 1HY"
+		},
+		{
+			"name":"Data Structure and Algorithms",
+			"language":"Java",
+			"aboutWork":
+			[
+				{
+					"description":"A program that is designed to be a platform for ITBA students, where academic plans can be put together according to the student's interests and opinions about their experiences in the approved subjects can be done. It serves as a guide for the student regarding their academic organization, which will undoubtedly help their performance.",
+					"github":"https://github.com/cguzzetti/PlanDeEstudio"
+				}
+			],
+			"date": "2017 2HY"
+		},
+		{
+			"name":"Imperative Programming",
+			"language":"C",
+			"aboutWork":
+			[
+				{
+					"description":"Program that reports the 2010 census of Argentina.",
+					"github":"https://github.com/cguzzetti/PlanDeEstudio"
+				}
+			],
+			"date": "2017 1HY"
 		}
 	]
 }
