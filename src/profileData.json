@@ -205,7 +205,7 @@
 			[
 				{
 					"description":"Implementation of a proxy server for the HTTP protocol version 1.1 (Hypertext Transfer Protocol) [RFC7230] that can be used by User Agents such as curl, Mozilla Firefox, Internet Exporer and Google Chrome to surf the Internet. It includes programming client/server applications with sockets, an understanding of industry standards, and the ability to design application protocols.",
-					"github":"https://github.com/fgomez98/FerLang"
+					"github":"https://github.com/fgomez98/TpProtos"
 				}
 			],
 			"date": "2019 1HY"
@@ -305,7 +305,7 @@
 			[
 				{
 					"description":"A program that is designed to be a platform for ITBA students, where academic plans can be put together according to the student's interests and opinions about their experiences in the approved subjects can be done. It serves as a guide for the student regarding their academic organization, which will undoubtedly help their performance.",
-					"github":"https://github.com/cguzzetti/PlanDeEstudio"
+					"github":""
 				}
 			],
 			"date": "2017 2HY"
@@ -317,7 +317,7 @@
 			[
 				{
 					"description":"Program that reports the 2010 census of Argentina.",
-					"github":"https://github.com/cguzzetti/PlanDeEstudio"
+					"github":""
 				}
 			],
 			"date": "2017 1HY"
